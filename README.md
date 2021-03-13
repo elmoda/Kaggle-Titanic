@@ -1,4 +1,4 @@
-#Titanic - Machine Learning from Disaster
+# Titanic - Machine Learning from Disaster
 
 #### Competition Description
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
