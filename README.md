@@ -22,3 +22,8 @@ data_description.txt: full description of each column in the csv<br>
 - seaborn
 - logistic regression
 - support vector machines
+- naive bayes
+- support vector machines(SVM)
+- decision tree
+- random forest
+- k-nearest neighbor(KNN)
