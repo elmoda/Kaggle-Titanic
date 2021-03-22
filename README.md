@@ -12,8 +12,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 ##### Data
 train.csv: 891 passenger and 12 attributes,  including the 'Survived'<br>
 test.csv: 418 passenger and 11 attributes<br>
-data_description.txt: full description of each column in the csv<br>
-
+gender_submission.csv : default form of files to submit<br>
+submission.csv : submission file I created<br>
 
 ##### Used libraries
 - numpy
